@@ -88,7 +88,7 @@ cp interpreter_web.* ./flask_server/static/
 
 
 # Bleeding Edge
-We welcome and hope to receives contributions in the following modules:
+We welcome and hope to receive contributions in the following modules:
 - `python_test_mpl_ci.py` This is used for headless CI testing.
 - `python_test` is a faster interface under development, but is not working properly, use `python_test_mpl.py` instead.
 
