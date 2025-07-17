@@ -113,7 +113,7 @@ keywords = {synthesis, reactive, causal, automata}
 ```
 
 # License
-This project is licensed under the MIT License - see the [](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 # Acknowledgement
 We acknowledge the open-source projects and communities that made this interpreter possible:
