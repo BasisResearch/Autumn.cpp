@@ -10,7 +10,7 @@ conda env create --file environment.yml
 ```
 
 ## Using the pre-built package
-To avoid the hassle in re-building, please try visiting the [Release](https://github.com/BasisResearch/Autumn.wasm/releases) page. Download the corresponding version and use it according to the [Wiki](https://github.com/BasisResearch/Autumn.wasm/wiki)
+To avoid the hassle in re-building, please try visiting the [Release](https://github.com/BasisResearch/Autumn.cpp/releases) page. Download the corresponding version and use it according to the [Wiki](https://github.com/BasisResearch/Autumn.cpp/wiki)
 
 ## Building the C++ Interpreter
 ### Install Julia Package
@@ -114,6 +114,10 @@ keywords = {synthesis, reactive, causal, automata}
 
 # License
 This project is licensed under the MIT License - see the [](LICENSE) file for details.
+
+# Acknowledgement
+We acknowledge the open-source projects and communities that made this interpreter possible:
+- The parser is made possible thanks to [Sexpresso - an S-Expression parser](https://github.com/BitPuffin/sexpresso)
 
 # Contributors
 Dat Nguyen, Archana Warrier, Yichao Liang, Cambridge Yang.
