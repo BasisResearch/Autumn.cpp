@@ -1,7 +1,9 @@
-# A CPP Implementation of Autumn that compiles to WASM (and more)
+# Autumn.cpp (a.k.a. Autumn.Wasm) A CPP Implementation of Autumn that compiles to WASM (and more)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This repository hosts the Autumn interpreter, built with C++. It's usable in WebAssembly (`WASM`), `C++`, `Python` and `Julia`.
+
+![Example Programs: Particles, Magnets, and Space Invader](assets/examples_small.gif)
 
 ## Setting Up the Environment
 Create a Conda environment using the following command:
@@ -86,7 +88,7 @@ cp interpreter_web.* ./flask_server/static/
 
 
 # Bleeding Edge
-We welcome and hope to receives contributions in the following modules:
+We welcome and hope to receive contributions in the following modules:
 - `python_test_mpl_ci.py` This is used for headless CI testing.
 - `python_test` is a faster interface under development, but is not working properly, use `python_test_mpl.py` instead.
 
@@ -120,4 +122,5 @@ We acknowledge the open-source projects and communities that made this interpret
 - The parser is made possible thanks to [Sexpresso - an S-Expression parser](https://github.com/BitPuffin/sexpresso)
 
 # Contributors
-Dat Nguyen, Archana Warrier, Yichao Liang, Cambridge Yang.
+Dat Nguyen, Archana Warrier, Yichao Liang, Cambridge Yang, Michelangelo Naim, Zenna Tarvares
+
