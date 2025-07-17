@@ -123,4 +123,3 @@ We acknowledge the open-source projects and communities that made this interpret
 
 # Contributors
 Dat Nguyen, Archana Warrier, Yichao Liang, Cambridge Yang, Michelangelo Naim, Zenna Tarvares
-
