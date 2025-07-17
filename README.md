@@ -3,6 +3,8 @@
 
 This repository hosts the Autumn interpreter, built with C++. It's usable in WebAssembly (`WASM`), `C++`, `Python` and `Julia`.
 
+![Example Programs: Particles, Magnets, and Space Invader](assets/examples_small.gif)
+
 ## Setting Up the Environment
 Create a Conda environment using the following command:
 ```sh
