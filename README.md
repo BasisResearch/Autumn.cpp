@@ -1,4 +1,4 @@
-# A CPP Implementation of Autumn that compiles to WASM (and more)
+# Autumn.cpp (a.k.a., Autumn.Wasm) A CPP Implementation of Autumn that compiles to WASM (and more)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This repository hosts the Autumn interpreter, built with C++. It's usable in WebAssembly (`WASM`), `C++`, `Python` and `Julia`.
