@@ -117,3 +117,8 @@ This project is licensed under the MIT License - see the [](LICENSE) file for de
 
 # Contributors
 Dat Nguyen, Archana Warrier, Yichao Liang, Cambridge Yang.
+
+
+# Acknowledgement
+We acknowledge the open-source projects and communities that made this interpreter possible:
+- The parser is made possible thanks to [Sexpresso - an S-Expression parser](https://github.com/BitPuffin/sexpresso)
