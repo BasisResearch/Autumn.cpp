@@ -10,7 +10,7 @@ conda env create --file environment.yml
 ```
 
 ## Using the pre-built package
-To avoid the hassle in re-building, please try visiting the [Release](https://github.com/BasisResearch/Autumn.wasm/releases) page. Download the corresponding version and use it according to the [Wiki](https://github.com/BasisResearch/Autumn.wasm/wiki)
+To avoid the hassle in re-building, please try visiting the [Release](https://github.com/BasisResearch/Autumn.cpp/releases) page. Download the corresponding version and use it according to the [Wiki](https://github.com/BasisResearch/Autumn.cpp/wiki)
 
 ## Building the C++ Interpreter
 ### Install Julia Package
