@@ -1,0 +1,16 @@
+build/
+.cache/
+stderr*
+stdout*
+std*err*
+*__pycache__*
+
+# build artifacts
+interpreter_web.js
+interpreter_web.wasm
+interpreter_web.d.ts
+interpreter_web.wasm.map
+interpreter_module.cpython-*
+
+# emscripten
+emsdk/

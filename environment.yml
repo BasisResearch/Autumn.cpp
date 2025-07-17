@@ -1,0 +1,7 @@
+name: autumnwasm
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - pybind11
+  - matplotlib
