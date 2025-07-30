@@ -15,6 +15,22 @@ conda env create --file environment.yml
 To avoid the hassle in re-building, please try visiting the [Release](https://github.com/BasisResearch/Autumn.cpp/releases) page. Download the corresponding version and use it according to the [Wiki](https://github.com/BasisResearch/Autumn.cpp/wiki)
 
 ## Building the C++ Interpreter
+In general, install CMake, and as well as `requirements.txt`:
+```shell
+# on Mac:
+brew install cmake
+# on Linux
+apt install linux
+# on both:
+pip install -r requirements.txt
+```
+Then build the python interpreter:
+```shell
+mkdir build && cd build
+cmake ..
+make -j20
+```
+
 ### Install Julia Package
 Run julia and install CxxWrap
 ```sh
