@@ -20,7 +20,7 @@ In general, install CMake, and as well as `requirements.txt`:
 # on Mac:
 brew install cmake
 # on Linux
-apt install linux
+apt install cmake
 # on both:
 pip install -r requirements.txt
 ```
